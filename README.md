@@ -28,15 +28,15 @@ When the data is filtered, holes emerge in the data. Specifically, down to the t
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-* Theater Kickstarters are overall more likely to succeed than to fail.
-* Theater Kickstarters are much more likely to succeed if they launch in May rather than any other month. 
+** Theater Kickstarters are overall more likely to succeed than to fail.
+** Theater Kickstarters are much more likely to succeed if they launch in May rather than any other month. 
 
 - What can you conclude about the Outcomes based on Goals?
-* Play Kickstarters are more likely to succeed with lower fundraising goals, especially below $5000. 
+** Play Kickstarters are more likely to succeed with lower fundraising goals, especially below $5000. 
 
 - What are some limitations of this dataset?
-* With less than ten years of data, this data set seems small, especially when filtered down. 
-* There could be outliers at the upper end of the data set. 
+** With less than ten years of data, this data set seems small, especially when filtered down. 
+** There could be outliers at the upper end of the data set. 
 
 - What are some other possible tables and/or graphs that we could create?
-* A table that calculated Standard Deviation and IQR of goal amounts, and a Box and Whisker graph could be helpful in identifying outliers and making more helpful analyses. 
+** A table that calculated Standard Deviation and IQR of goal amounts, and a Box and Whisker graph could be helpful in identifying outliers and making more helpful analyses. 
